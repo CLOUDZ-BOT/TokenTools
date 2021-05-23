@@ -10,7 +10,7 @@ import colorama
 from colorama import Fore, init, Back, Style
 from datetime import date
 
-os.system("title [TokenTools] Discord Tool - Matty#8952")
+os.system("title [JUNGLEE GENERATOR] - discord.gg/jungleeop")
 
 def Spinner():
 	l = ['|', '/', '-', '\\']
